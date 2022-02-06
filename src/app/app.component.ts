@@ -20,7 +20,7 @@ import {ProductService} from './product.service'
       random larger container
     </div>
     <div class="button">
-      Learn more
+      Learn more and More
     </div>
   </bs-jumbotron>
   <products></products>`,
