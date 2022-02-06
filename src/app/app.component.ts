@@ -10,7 +10,7 @@ import {ProductService} from './product.service'
   <button  (click)="onClickMe($event)" class="btn btn-primary" [class.disabled]=" !isValid" > Submit</button>,
   <bs-jumbotron>
     <div class="heading">
-      Hellow world!
+      Hello world!
     </div>
 
     <div class="body">
