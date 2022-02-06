@@ -27,7 +27,7 @@ import {ProductService} from './product.service'
   providers: [ProductService]
 })
 export class AppComponent {
-  title = 'My First Angular App';
+  title = 'My First Angular App here';
   isValid = true;
 
   imageUrl= "https://www.freeimages.com/photo/a-kayak-rider-passing-by-1641874";
